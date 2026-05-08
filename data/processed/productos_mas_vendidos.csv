@@ -1,0 +1,7 @@
+﻿id_producto,nombre_producto,categoria,cantidad_total_vendida,total_ventas
+2001.0,Notebook Lenovo,Tecnologia,4.0,600000
+2002.0,Smartphone Samsung,Tecnologia,3.0,900000
+2003.0,Polera Hombre,Vestuario,3.0,150000
+2004.0,Silla Oficina,Hogar,3.0,60000
+2005.0,Audifonos Sony,Tecnologia,1.0,80000
+2006.0,Tablet Huawei,Tecnologia,1.0,120000
