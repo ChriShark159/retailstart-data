@@ -1,0 +1,21 @@
+﻿id_transaccion,fecha,id_cliente,nombre,apellido,segmento,ciudad,id_producto,nombre_producto,categoria,cantidad,total,canal,tipo_venta
+1,2026-04-01,101,Juan,Perez,Premium,Santiago,2001.0,Notebook Lenovo,Tecnologia,2.0,300000,tienda_fisica,POS
+2,2026-04-01,102,Ana,Gomez,Regular,Valparaiso,2002.0,Smartphone Samsung,Tecnologia,1.0,300000,tienda_fisica,POS
+3,2026-04-02,103,Carlos,Rojas,Premium,Concepcion,2003.0,Polera Hombre,Vestuario,1.0,50000,tienda_fisica,POS
+4,2026-04-02,101,Juan,Perez,Premium,Santiago,2001.0,Notebook Lenovo,Tecnologia,1.0,150000,tienda_fisica,POS
+5,2026-04-03,104,Maria,Lopez,Nuevo,Santiago,2004.0,Silla Oficina,Hogar,3.0,60000,tienda_fisica,POS
+6,2026-04-03,105,Pedro,Diaz,Regular,Temuco,2002.0,Smartphone Samsung,Tecnologia,2.0,600000,tienda_fisica,POS
+7,2026-04-04,106,Laura,Martinez,Premium,Santiago,2005.0,Audifonos Sony,Tecnologia,1.0,80000,tienda_fisica,POS
+8,2026-04-04,107,Diego,Soto,Nuevo,Antofagasta,2003.0,Polera Hombre,Vestuario,2.0,100000,tienda_fisica,POS
+9,2026-04-05,108,Sofia,Reyes,Regular,Santiago,2006.0,Tablet Huawei,Tecnologia,1.0,120000,tienda_fisica,POS
+10,2026-04-05,109,Andres,Castro,Premium,La Serena,2001.0,Notebook Lenovo,Tecnologia,1.0,150000,tienda_fisica,POS
+5001,2026-04-01,101,Juan,Perez,Premium,Santiago,,,,,300000,web,ONLINE
+5002,2026-04-02,103,Carlos,Rojas,Premium,Concepcion,,,,,50000,web,ONLINE
+5003,2026-04-03,104,Maria,Lopez,Nuevo,Santiago,,,,,60000,app,ONLINE
+5004,2026-04-03,105,Pedro,Diaz,Regular,Temuco,,,,,300000,web,ONLINE
+5005,2026-04-04,106,Laura,Martinez,Premium,Santiago,,,,,80000,app,ONLINE
+5006,2026-04-04,107,Diego,Soto,Nuevo,Antofagasta,,,,,100000,web,ONLINE
+5007,2026-04-05,108,Sofia,Reyes,Regular,Santiago,,,,,120000,app,ONLINE
+5008,2026-04-05,109,Andres,Castro,Premium,La Serena,,,,,150000,web,ONLINE
+5009,2026-04-05,110,Camila,Vega,Nuevo,Santiago,,,,,25000,app,ONLINE
+5010,2026-04-05,101,Juan,Perez,Premium,Santiago,,,,,150000,web,ONLINE
