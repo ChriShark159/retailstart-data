@@ -1,0 +1,4 @@
+﻿id_canal,canal,descripcion
+1,tienda_fisica,Venta realizada en tienda física
+2,web,Venta realizada mediante sitio web
+3,app,Venta realizada mediante aplicación móvil
