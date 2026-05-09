@@ -268,7 +268,7 @@ def main():
     print("- dim_producto.csv")
     print("- dim_tiempo.csv")
     print("- dim_canal.csv")
-
+    
     eventos_app.to_csv(PROCESSED_DIR / "eventos_app_limpio.csv", index=False, encoding="utf-8-sig")
     logistica.to_csv(PROCESSED_DIR / "logistica_limpia.csv", index=False, encoding="utf-8-sig")
     callcenter.to_csv(PROCESSED_DIR / "callcenter_limpio.csv", index=False, encoding="utf-8-sig")
